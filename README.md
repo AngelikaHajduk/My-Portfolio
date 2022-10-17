@@ -8,12 +8,12 @@ W życiu prywatnym bliska memu sercu jest literatura z zakresu psychologii i kry
 
 
 * Języki programowania i frameworki, np. Java ( w trakcie szkolenia )
-* Bazy danych, np. MySQL, MS SQL.
-* Systemy operacyjne, np. Windows, Linux.
-* Systemy kontroli wersji, np. GIT.
-* Poznane metodologie zarządzania, jak SCRUM..
+* Bazy danych, np. MySQL, MS SQL
+* Systemy operacyjne, np. Windows, Linux
+* Systemy kontroli wersji, np. GIT
+* Poznane metodologie zarządzania, jak SCRUM
 * Narzędzia do zarządzania testowaniem, np. Jira, TestLink, SoapUI, Postman 
-* Narzędzia wspomagające testowanie, np. konsola Chrome.
+* Narzędzia wspomagające testowanie, np. konsola Chrome
 
 # Umiejętności
 
@@ -29,7 +29,7 @@ W życiu prywatnym bliska memu sercu jest literatura z zakresu psychologii i kry
 # Kursy
 
 * Tester manualny 80h - CodersLab
-* Tester automatyzujący - CodersLab ( wciąż trwa )
+* Tester automatyzujący 48h - CodersLab
 * Warsztaty - API HTTP z użyciem Postman with Ifs&Whiles
 * Podstawy SQL część 1 with Ifs&Whiles
 * SQL - język zapytań do relacyjnych baz danych 
@@ -41,11 +41,13 @@ W życiu prywatnym bliska memu sercu jest literatura z zakresu psychologii i kry
 * [QA Testers - job offers, oferty pracy, jobangebote, вакансії](https://www.facebook.com/groups/808752555920542/)
 * [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/)
 * [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania/)
-* 
 
-# Blogi, strony tematyczne
-
-#  Webinary, Meetupy
 
 # Moja autorska dokumentacja testowania
 
+Przetestowanie stron internetowych:
+
+* https://mystore-testlab.coderslab.pl/index.php
+* https://tester.codersguru.pl/
+
+https://drive.google.com/file/d/124hceoidJ8pnrPZhxVBotZpW6LzRQfmg/view?usp=sharing 
